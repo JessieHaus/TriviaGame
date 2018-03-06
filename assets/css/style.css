@@ -1,0 +1,17 @@
+body{
+    background-image: url(../images/nature.jpg);
+    background-size: cover; 
+}
+
+#box {
+    width: 50%;
+    border: 25px;
+    padding: 25px;
+    height: 500px;
+    background-color: palegoldenrod;
+    float: center; 
+    text-align: center;
+    margin: auto; 
+    margin-top: 60px; 
+    
+}
